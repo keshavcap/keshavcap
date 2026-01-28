@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Automation+QA+%7C+7%2B+Years+Experience;Java+%7C+Automation6%2B+%7C+DOM+Mastery;Responsive+Design+with+HTML5+%26+CSS3;Reusable+Components+%7C+Hooks+%7C+SPA+Expert;Pixel-perfect+UI+with+Flexbox+%26+Bootstrap;Passionate+about+Clean+%26+Performant+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Automation+QA+%7C+7%2B+Years+Experience;Java+%7C+Automation6%2B+%7C+%7C" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ---
 ### 👩‍💻 About Me
 
-Results-driven Mobile QA Engineer with 7+ years of software testing experience, including 3+ years specializing in mobile application testing across iOS and Android platforms. Proven expertise in designing and implementing comprehensive test strategies for native and hybrid mobile applications, with strong automation skills using Appium, Java, and modern testing frameworks. Experienced in leading QA teams, establishing scalable automation frameworks from scratch, and collaborating cross-functionally with developers and product managers to deliver high-quality mobile experiences for e-commerce and banking applications.
+Results-driven Mobile QA Engineer with 7+ years of software testing experience, including 3+ years specializing in mobile application testing across iOS and Android platforms. <br/> Proven expertise in designing and implementing comprehensive test strategies for native and hybrid mobile applications, with strong automation skills using Appium, Java, and modern testing frameworks. <br/>Experienced in leading QA teams, establishing scalable automation frameworks from scratch, and collaborating cross-functionally with developers and product managers to deliver high-quality mobile experiences for e-commerce and banking applications.
 
 ---
 
