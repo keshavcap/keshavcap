@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, I'm Keshav!, Thanks for visiting at my profile!</h2>
-<h4 align="center">🚀Automation QA Engineer | 7+ Years of Experience | Appium | Selenium WebDriver | Java | Python | TestNG | Maven | Jenkins CI/CD | Page Object Model | BrowserStack | Android Studio | Xcode | Postman | JMeter </h4>
+<h4 align="center">🚀Automation QA Engineer | 7+ Years of Experience | Appium | Selenium WebDriver | Java | Python | TestNG | Maven | Jenkins CI/CD | Page Object Model | BrowserStack | Android Studio | Xcode | Postman | JMeter | GenAI | Claude code | Langchain AI agent | chatGPT </h4>
 
 
 <p align="center">
@@ -24,7 +24,7 @@
 ---
 ### 👩‍💻 About Me
 
-Results-driven Mobile QA Engineer with 7+ years of software testing experience, including 3+ years specializing in mobile application testing across iOS and Android platforms. <br/> Proven expertise in designing and implementing comprehensive test strategies for native and hybrid mobile applications, with strong automation skills using Appium, Java, and modern testing frameworks. <br/>Experienced in leading QA teams, establishing scalable automation frameworks from scratch, and collaborating cross-functionally with developers and product managers to deliver high-quality mobile experiences for e-commerce and banking applications.
+Results-driven Software Test Automation Engineer with over 8 years of experience, including 5+ years specializing in test automation within SDLC and STLC frameworks. Experienced in test planning, scope and requirements analysis, effort estimation, resource planning, and maintaining clear visibility of the testing process using RTM. Proficient in Java, Selenium, Appium, TestNG, Maven, and Jenkins, with expertise in designing scalable automation frameworks. Skilled in leveraging GenAI solutions i.e. Claude, ChatGPT, Langchain. Hands-on experience with Salesforce (Service, Marketing, and Data Cloud), Google Firebase/Firestore, and Microsoft Azure having domain knowledge E-commerce Retail, Insurance and Banking
 
 ---
 
