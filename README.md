@@ -34,6 +34,8 @@ Results-driven Software Test Automation Engineer with over 8 years of experience
 <p>-<b>Automation & Tools</b>: Appium | Selenium WebDriver | Java | Python | TestNG | Maven | Jenkins CI/CD | Page Object Model | BrowserStack | Android Studio | Xcode | Postman | JMeter</p>
 <p>-<b>Methodologies</b>: Test Planning & Strategy | Requirements Analysis | Test Case Design | Regression Testing | Functional Testing | Integration Testing | Agile/Scrum | SDLC/STLC</p>
 <p>-<b>Technical Skills</b>: Java | Python | JavaScript | SQL | JSON | HTML | REST APIs | GraphQL | MySQL | MongoDB | Firebase/Firestore | Git | JIRA | Confluence</p>
+<p>-<b>AI & Integration</b>: IBM WhatsonX | IQP | CHATgpt | Claude code | Langchain | Salesforce Einstein agent</p>
+
 
 
 ---
